@@ -12,5 +12,5 @@ export default function Weather(props) {
   let apiKey = "6643c7326a4c2a38838264a28531d97e";
   let url = `https://api.openweathermap.org/data/2.5/weather?q=${props.city}&appid=${apiKey}&units=metric`;
   axios.get(url).then(showWeather);
-  return <p>Hello Everyone!!!</p>;
+  return <p>Hello Everyone 😁!!!</p>;
 }
