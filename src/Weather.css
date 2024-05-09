@@ -1,0 +1,29 @@
+form {
+  text-align: center;
+}
+
+.input-search {
+  background-color: white;
+  border: none;
+  border-radius: 6px;
+  width: 60%;
+  font-size: 16px;
+  padding: 15px 20px;
+}
+
+.input-submit {
+  color: white;
+  background: #6153a0;
+  border: none;
+  border-radius: 6px;
+  font-size: 16px;
+  margin-left: 5px;
+  padding: 15px 30px;
+}
+ul {
+  padding: 20px 20px;
+}
+li {
+  text-align: center;
+  list-style-type: none;
+}
